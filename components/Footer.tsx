@@ -169,7 +169,7 @@ export default function Footer() {
               <div class="col-sm-12 col-xs-12">
                 <div class="copyRightText">
                   <p>
-                    2023 &copy Centro de Reflexoterapia Hermanas de San Pablo de
+                    2024 Centro de Reflexoterapia Hermanas de San Pablo de
                     Chartres
                   </p>
                 </div>
